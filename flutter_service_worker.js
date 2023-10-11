@@ -13,6 +13,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "23666e1d2c6ad3fe9cbb3e9a04c0fe68
 "assets/assets/images/Kubilay.jpg": "1f0a4bfcfd42073cca9a03429ceaffe5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
+"assets/images/Berk.jpg": "f4dae38d71f11c4c03de84dd1ea46a36",
+"assets/images/Burak.jpg": "1d93af00ff25f371cfe42326f7718b4c",
+"assets/images/Can.jpg": "f8dd4e1765bf0bfbb5b7d0b1bb2033b8",
+"assets/images/FazliCan.jpg": "0636a96f9331dce6b1d3375ef498fae5",
+"assets/images/Ismail.jpg": "775d73623e59cb536a16fa53ac9465c5",
+"assets/images/Kubilay.jpg": "1f0a4bfcfd42073cca9a03429ceaffe5",
 "assets/NOTICES": "b9691cd224de935cfe2f4bbdcf75af3b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
@@ -29,10 +35,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "23666e1d2c6ad3fe9cbb3e9a04c0fe68
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "917757a48d762c7829325da7d8c02a17",
-"/": "917757a48d762c7829325da7d8c02a17",
-"main.dart.js": "b0e027bd92617b514e23a6c40b1753e8",
+"index.html": "0b84e01ce71f914f54436bbb16d2afb6",
+"/": "0b84e01ce71f914f54436bbb16d2afb6",
+"main.dart.js": "7e4f34d3c6b7beeec9e78f838385c7e9",
 "manifest.json": "ed646e7be72afe08059301f05ec5512c",
+"README.md": "68eb367a910b1034638998fc52812348",
 "version.json": "d019583290021b53048c37a5702618c0"};
 // The application shell files that are downloaded before a service worker can
 // start.
